@@ -9,7 +9,9 @@ import java.util.Random;
 public class _06_IPodShuffle{
 	public _06_IPodShuffle() {
 		// 1. Use the Song class the play the demo.mp3 file.
-				
+		
+		Song derp = new Song("37603__hello-flowers__harriaccousticloop2120bpm-hello-mix");
+		
 				
 		/**
 		 * 2. Congratulations on completing the sound check! * Now we want to make an
