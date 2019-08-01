@@ -22,7 +22,7 @@ public class _02_LogSearch extends JPanel implements ActionListener{
 	
 	public void start() {
 		
-		frame = new JFrame("Fuck you andrew");
+		frame = new JFrame();
 		panel = this;
 		button1 = new JButton("Add Entry");
 		button2 = new JButton("Search by ID");
